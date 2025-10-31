@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">👋 Hi, we are RMUTL ARIT</h1>
 <h3 align="center">งานพัฒนาระบบสารสนเทศ | Information System Development Division</h3>
 
@@ -6,12 +5,12 @@
 
 ### 🏢 About Us
 
-<p align="left">
-งานพัฒนาระบบสารสนเทศ สำนักวิทยบริการและเทคโนโลยีสารสนเทศ มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา
-<br><br>
-มุ่งพัฒนาและให้บริการระบบเทคโนโลยีสารสนเทศ เพื่อสนับสนุนภารกิจหลัก
+งานพัฒนาระบบสารสนเทศ  
+สำนักวิทยบริการและเทคโนโลยีสารสนเทศ  
+มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา  
+
+มุ่งพัฒนาและให้บริการระบบเทคโนโลยีสารสนเทศ เพื่อสนับสนุนภารกิจหลัก  
 สู่มหาวิทยาลัยดิจิทัล (Digital University) อย่างมีคุณภาพ
-</p>
 
 ---
 
@@ -36,7 +35,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -61,7 +60,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rmutl-arit&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="RMUTL ARIT's GitHub stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmutl-arit&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
-```
