@@ -75,10 +75,3 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmutl-arit&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="RMUTL ARIT's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmutl-arit&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
