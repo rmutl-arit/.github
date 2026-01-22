@@ -1,77 +1,116 @@
-<h1 align="center">👋 Hi, we are RMUTL ARIT</h1>
-<h3 align="center">งานพัฒนาระบบสารสนเทศ | Information System Development Division</h3>
+<h1 align="center">Rajamangala University of Technology Lanna</h1>
+<h3 align="center">
+Digital Systems & Services Development  
+<br>
+มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา
+</h3>
 
 ---
 
-### 🏢 About Us
+## 🏛️ About Organization
 
-งานพัฒนาระบบสารสนเทศ  
-สำนักวิทยบริการและเทคโนโลยีสารสนเทศ  
+**Rajamangala University of Technology Lanna (RMUTL)**  
+เป็นสถาบันอุดมศึกษาของรัฐที่มุ่งเน้นการผลิตบัณฑิตนักปฏิบัติ  
+ควบคู่กับการพัฒนาเทคโนโลยีดิจิทัลและระบบสารสนเทศ  
+เพื่อสนับสนุนพันธกิจด้านการเรียนการสอน การวิจัย  
+การบริการวิชาการ และการบริหารจัดการองค์กร
+
+GitHub Organization นี้จัดตั้งขึ้นเพื่อใช้เป็น  
+**ศูนย์กลางการพัฒนาและบริหารจัดการซอร์สโค้ดของระบบสารสนเทศและบริการดิจิทัลของมหาวิทยาลัย**
+
+---
+
+## 🎯 Vision
+
+> ขับเคลื่อนมหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา  
+> สู่ **Digital University** ด้วยระบบสารสนเทศที่มีมาตรฐาน  
+> โปร่งใส ปลอดภัย และตอบสนองต่อการใช้งานจริง
+
+---
+
+## 🧩 Digital Systems & Services
+
+โครงการและระบบสารสนเทศที่พัฒนาและดูแลภายใต้ RMUTL ได้แก่
+
+### 🖥️ Academic & Learning Systems
+- ระบบบริหารจัดการการเรียนการสอน
+- ระบบภาระงานสอน (Workload)
+- ระบบสนับสนุนการเรียนรู้ดิจิทัล (E-Learning / LMS)
+
+### 💼 Administrative & Management Systems
+- ระบบการเงินและบัญชี (e-Finance)
+- ระบบครุภัณฑ์และทรัพย์สิน (e-Asset)
+- ระบบสารบรรณอิเล็กทรอนิกส์
+- ระบบบุคลากรและการบริหารงานบุคคล
+
+### 🌐 Web & Digital Services
+- ระบบจัดการเว็บไซต์หน่วยงาน (Web CMS)
+- เว็บไซต์กลางและเว็บไซต์หน่วยงาน
+- Open Data & Data Dashboard
+- ระบบให้บริการข้อมูลสาธารณะ
+
+### 🔐 Infrastructure & Security
+- โครงสร้างพื้นฐานดิจิทัล (Server / Cloud / Container)
+- ระบบยืนยันตัวตนและสิทธิ์การใช้งาน
+- ความมั่นคงปลอดภัยสารสนเทศ (Cyber Security)
+- การสำรองและกู้คืนข้อมูล (Backup & DR)
+
+---
+
+## 🛠️ Technology Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+---
+
+## 📁 Repository Policy
+
+Repository ภายใต้ Organization นี้ใช้สำหรับ
+
+- พัฒนาระบบสารสนเทศของมหาวิทยาลัย
+- เก็บ Source Code, API, และ Tools ภายใน
+- เอกสารทางเทคนิค และคู่มือการใช้งานระบบ
+- โครงการวิจัยหรือโครงการพัฒนาระบบที่เกี่ยวข้อง
+
+> ⚠️ บางโครงการอาจเป็น **Internal / Restricted Access**  
+> เพื่อความปลอดภัยของข้อมูลภาครัฐ
+
+---
+
+## 🤝 Collaboration
+
+การพัฒนาระบบดำเนินการโดยความร่วมมือระหว่าง
+- นักวิชาการคอมพิวเตอร์
+- นักพัฒนาระบบสารสนเทศ
+- ผู้ดูแลโครงสร้างพื้นฐานดิจิทัล
+- หน่วยงานภายในมหาวิทยาลัย
+
+โดยยึดหลัก  
+**มาตรฐานซอฟต์แวร์ | ความมั่นคงปลอดภัย | การใช้งานจริง**
+
+---
+
+## 📬 Contact
+
+**สำนักวิทยบริการและเทคโนโลยีสารสนเทศ**  
 มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา  
 
-มุ่งพัฒนาและให้บริการระบบเทคโนโลยีสารสนเทศ เพื่อสนับสนุนภารกิจหลัก  
-สู่มหาวิทยาลัยดิจิทัล (Digital University) อย่างมีคุณภาพ
+🌐 Website: https://www.rmutl.ac.th  
+🌐 ARIT: https://arit.rmutl.ac.th  
 
 ---
 
-### 🛠️ Skills: Software Development and Services
-
-<p align="left">
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" width="60" height="60"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="nuxtjs" width="40" height="40"/>
-  </a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
+<p align="center">
+© Rajamangala University of Technology Lanna  
+Digital Systems & Services Development
 </p>
-
----
-
-## 🌐 RMUTL Web Services
-
-
-- [Web CMS RMUTL](https://webcms.rmutl.ac.th)
-- [RMUTL Portal](https://portal.rmutl.ac.th)
-- [RMUTL Data Portal](https://data.rmutl.ac.th)
-
----
-
-### 📬 Connect with us
-
-<p align="left">
-  <a href="https://github.com/rmutl-arit" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="rmutl-arit" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
